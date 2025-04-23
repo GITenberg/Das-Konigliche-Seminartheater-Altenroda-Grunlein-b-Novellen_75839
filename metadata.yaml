@@ -1,0 +1,33 @@
+_repo: Das-Konigliche-Seminartheater-Altenroda-Grunlein-b-Novellen_75839
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Poetter, Wilh.
+    gutenberg_agent_id: '58178'
+    url: http://www.gutenberg.org/2009/agents/58178
+creator:
+  author:
+    agent_name: Keller, Paul
+    birthdate: 1873
+    deathdate: 1932
+    gutenberg_agent_id: '33597'
+    url: http://www.gutenberg.org/2009/agents/33597
+    wikipedia: https://de.wikipedia.org/wiki/Paul_Keller_(Schriftsteller)
+description: ''
+gutenberg_issued: '2025-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75839'
+language: de
+pgterms:marc905: 20220408093139keller
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBreslau und Leipzig :$bBergstadtverlag, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Das Königliche Seminartheater — Altenroda — Grünlein : $b Novellen'
+url: http://www.gutenberg.org/ebooks/75839
