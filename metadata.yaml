@@ -5,6 +5,9 @@ contributor:
     agent_name: Poetter, Wilh.
     gutenberg_agent_id: '58178'
     url: http://www.gutenberg.org/2009/agents/58178
+covers:
+- cover_type: archival
+  image_path: 75839-h/images/cover.jpg
 creator:
   author:
     agent_name: Keller, Paul
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33597
     wikipedia: https://de.wikipedia.org/wiki/Paul_Keller_(Schriftsteller)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75839#Das-Konigliche-Seminartheater-Altenroda-Grunlein-b-Novellen
 gutenberg_issued: '2025-04-12'
 gutenberg_type: Text
 identifiers:
